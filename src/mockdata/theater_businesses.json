@@ -1,0 +1,796 @@
+{
+  "businesses": [
+      {
+          "id": "zcNaSJI7IrLYSKeE12L29Q",
+          "alias": "century-san-francisco-centre-9-and-xd-san-francisco",
+          "name": "Century San Francisco Centre 9 and XD",
+          "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WRUX7LeJfbw_lVY-M0zukw/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/century-san-francisco-centre-9-and-xd-san-francisco?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 718,
+          "categories": [
+              {
+                  "alias": "movietheaters",
+                  "title": "Cinema"
+              },
+              {
+                  "alias": "venues",
+                  "title": "Venues & Event Spaces"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 37.7836679345436,
+              "longitude": -122.406848146172
+          },
+          "transactions": [],
+          "location": {
+              "address1": "835 Market St",
+              "address2": "Ste 5000",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94103",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "835 Market St",
+                  "Ste 5000",
+                  "San Francisco, CA 94103"
+              ]
+          },
+          "phone": "+14155388422",
+          "display_phone": "(415) 538-8422",
+          "distance": 702.0424597540266
+      },
+      {
+          "id": "lcEUeTya9YwhPmHW-y3eBw",
+          "alias": "orpheum-theatre-san-francisco-4",
+          "name": "Orpheum Theatre",
+          "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/l7DZjXsEEm23eq5oh288lg/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/orpheum-theatre-san-francisco-4?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 1066,
+          "categories": [
+              {
+                  "alias": "theater",
+                  "title": "Performing Arts"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 37.77929,
+              "longitude": -122.41459
+          },
+          "transactions": [],
+          "location": {
+              "address1": "1192 Market St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94102",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "1192 Market St",
+                  "San Francisco, CA 94102"
+              ]
+          },
+          "phone": "+18887461799",
+          "display_phone": "(888) 746-1799",
+          "distance": 1543.8036138349603
+      },
+      {
+          "id": "Ao2KEFYW_lojjrqM0pykAQ",
+          "alias": "regal-stonestown-galleria-screenx-4dx-and-rpx-san-francisco-3",
+          "name": "Regal Stonestown Galleria ScreenX, 4DX & RPX",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yTYIcTehuSFN4KDIKUnmnA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/regal-stonestown-galleria-screenx-4dx-and-rpx-san-francisco-3?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 56,
+          "categories": [
+              {
+                  "alias": "movietheaters",
+                  "title": "Cinema"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 37.72920569899438,
+              "longitude": -122.476687375121
+          },
+          "transactions": [],
+          "location": {
+              "address1": "3251 20th Ave",
+              "address2": "",
+              "address3": null,
+              "city": "San Francisco",
+              "zip_code": "94132",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "3251 20th Ave",
+                  "San Francisco, CA 94132"
+              ]
+          },
+          "phone": "+18444627342",
+          "display_phone": "(844) 462-7342",
+          "distance": 9306.64857482808
+      },
+      {
+          "id": "80aWVck8jXMT0LvnfAwbqw",
+          "alias": "alamo-drafthouse-cinema-new-mission-san-francisco",
+          "name": "Alamo Drafthouse Cinema New Mission",
+          "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jHsAp4n6ogs1vuaJjMK_sA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/alamo-drafthouse-cinema-new-mission-san-francisco?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 861,
+          "categories": [
+              {
+                  "alias": "bars",
+                  "title": "Bars"
+              },
+              {
+                  "alias": "movietheaters",
+                  "title": "Cinema"
+              },
+              {
+                  "alias": "dinnertheater",
+                  "title": "Dinner Theater"
+              }
+          ],
+          "rating": 3.5,
+          "coordinates": {
+              "latitude": 37.75619,
+              "longitude": -122.41934
+          },
+          "transactions": [
+              "pickup",
+              "delivery"
+          ],
+          "price": "$$",
+          "location": {
+              "address1": "2550 Mission St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94110",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "2550 Mission St",
+                  "San Francisco, CA 94110"
+              ]
+          },
+          "phone": "+14155495959",
+          "display_phone": "(415) 549-5959",
+          "distance": 3805.5246711120226
+      },
+      {
+          "id": "7zsGWWRVpaex_pI4Z5WRTA",
+          "alias": "amc-metreon-16-san-francisco-2",
+          "name": "AMC Metreon 16",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CF0Btx0GuCP2Jw_FuHINdw/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/amc-metreon-16-san-francisco-2?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 280,
+          "categories": [
+              {
+                  "alias": "movietheaters",
+                  "title": "Cinema"
+              }
+          ],
+          "rating": 3.0,
+          "coordinates": {
+              "latitude": 37.78439624297165,
+              "longitude": -122.40342311813592
+          },
+          "transactions": [],
+          "location": {
+              "address1": "135 Fourth St",
+              "address2": "Ste 3000",
+              "address3": null,
+              "city": "San Francisco",
+              "zip_code": "94103",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "135 Fourth St",
+                  "Ste 3000",
+                  "San Francisco, CA 94103"
+              ]
+          },
+          "phone": "+14153696207",
+          "display_phone": "(415) 369-6207",
+          "distance": 410.3368877323872
+      },
+      {
+          "id": "2wNiVTuOkr3slJaWGJonYQ",
+          "alias": "san-francisco-playhouse-san-francisco",
+          "name": "San Francisco Playhouse",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EQsMPwOWQ4Fhm9ge3Yb_fQ/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/san-francisco-playhouse-san-francisco?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 281,
+          "categories": [
+              {
+                  "alias": "theater",
+                  "title": "Performing Arts"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 37.7883069,
+              "longitude": -122.409478
+          },
+          "transactions": [],
+          "location": {
+              "address1": "450 Post St",
+              "address2": "Fl 2",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94102",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "450 Post St",
+                  "Fl 2",
+                  "San Francisco, CA 94102"
+              ]
+          },
+          "phone": "+14156779596",
+          "display_phone": "(415) 677-9596",
+          "distance": 850.2412937934103
+      },
+      {
+          "id": "M8_kQV2qiPFtA6faPxM1mA",
+          "alias": "cheaper-than-therapy-san-francisco",
+          "name": "Cheaper Than Therapy",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jwk0g8QRz1trIGEzyGEggA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/cheaper-than-therapy-san-francisco?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 468,
+          "categories": [
+              {
+                  "alias": "comedyclubs",
+                  "title": "Comedy Clubs"
+              },
+              {
+                  "alias": "theater",
+                  "title": "Performing Arts"
+              },
+              {
+                  "alias": "bars",
+                  "title": "Bars"
+              }
+          ],
+          "rating": 5.0,
+          "coordinates": {
+              "latitude": 37.7890249,
+              "longitude": -122.4091439
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "533 Sutter St",
+              "address2": "",
+              "address3": "Shelton Theater",
+              "city": "San Francisco",
+              "zip_code": "94102",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "533 Sutter St",
+                  "Shelton Theater",
+                  "San Francisco, CA 94102"
+              ]
+          },
+          "phone": "+14155068474",
+          "display_phone": "(415) 506-8474",
+          "distance": 840.4693514407996
+      },
+      {
+          "id": "O7HdPG1c8G0IB3GZc4V2zg",
+          "alias": "amc-kabuki-8-san-francisco",
+          "name": "AMC Kabuki 8",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qp_i9fdijg4nRpySCytLcA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/amc-kabuki-8-san-francisco?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 2224,
+          "categories": [
+              {
+                  "alias": "movietheaters",
+                  "title": "Cinema"
+              }
+          ],
+          "rating": 3.5,
+          "coordinates": {
+              "latitude": 37.785008,
+              "longitude": -122.432585
+          },
+          "transactions": [],
+          "location": {
+              "address1": "1881 Post St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94115",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "1881 Post St",
+                  "San Francisco, CA 94115"
+              ]
+          },
+          "phone": "+14153463243",
+          "display_phone": "(415) 346-3243",
+          "distance": 2873.525655341982
+      },
+      {
+          "id": "vPjEGzDJNWvCqehmwcXxnw",
+          "alias": "american-conservatory-theater-the-geary-theater-san-francisco-2",
+          "name": "American Conservatory Theater: The Geary Theater",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Gr-GO5iUZyDjlgj8asn30A/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/american-conservatory-theater-the-geary-theater-san-francisco-2?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 282,
+          "categories": [
+              {
+                  "alias": "theater",
+                  "title": "Performing Arts"
+              },
+              {
+                  "alias": "artschools",
+                  "title": "Art Schools"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 37.7869699,
+              "longitude": -122.41025
+          },
+          "transactions": [],
+          "location": {
+              "address1": "415 Geary St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94102",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "415 Geary St",
+                  "San Francisco, CA 94102"
+              ]
+          },
+          "phone": "+14157492228",
+          "display_phone": "(415) 749-2228",
+          "distance": 915.0813913606089
+      },
+      {
+          "id": "Z4ouzRHf3cCoUTqX6jDlrA",
+          "alias": "cgv-cinemas-san-francisco",
+          "name": "CGV Cinemas",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ozbQDHUbDbQq6hcAoEDFxA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/cgv-cinemas-san-francisco?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 19,
+          "categories": [
+              {
+                  "alias": "movietheaters",
+                  "title": "Cinema"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 37.78509,
+              "longitude": -122.42067
+          },
+          "transactions": [],
+          "location": {
+              "address1": "1000 Van Ness Ave",
+              "address2": null,
+              "address3": null,
+              "city": "San Francisco",
+              "zip_code": "94109",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "1000 Van Ness Ave",
+                  "San Francisco, CA 94109"
+              ]
+          },
+          "phone": "+12133889000",
+          "display_phone": "(213) 388-9000",
+          "distance": 1852.530601228441
+      },
+      {
+          "id": "aV6lOAALeNCuooxJ3vNCSw",
+          "alias": "curran-san-francisco",
+          "name": "Curran",
+          "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0dM3an6x4mdr8t7jV_MCLw/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/curran-san-francisco?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 337,
+          "categories": [
+              {
+                  "alias": "theater",
+                  "title": "Performing Arts"
+              }
+          ],
+          "rating": 3.5,
+          "coordinates": {
+              "latitude": 37.7867736816406,
+              "longitude": -122.410583496094
+          },
+          "transactions": [],
+          "location": {
+              "address1": "445 Geary St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94102",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "445 Geary St",
+                  "San Francisco, CA 94102"
+              ]
+          },
+          "phone": "+14153581220",
+          "display_phone": "(415) 358-1220",
+          "distance": 939.9245980591469
+      },
+      {
+          "id": "Yo_hVofcGOSZPk2adCoyxg",
+          "alias": "golden-gate-theatre-san-francisco-4",
+          "name": "Golden Gate Theatre",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pNMduFyXdNpejjSEIvEJJQ/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/golden-gate-theatre-san-francisco-4?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 233,
+          "categories": [
+              {
+                  "alias": "theater",
+                  "title": "Performing Arts"
+              }
+          ],
+          "rating": 3.0,
+          "coordinates": {
+              "latitude": 37.782476618886,
+              "longitude": -122.410700619221
+          },
+          "transactions": [],
+          "location": {
+              "address1": "1 Taylor St",
+              "address2": null,
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94102",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "1 Taylor St",
+                  "San Francisco, CA 94102"
+              ]
+          },
+          "phone": "+18887461799",
+          "display_phone": "(888) 746-1799",
+          "distance": 1073.909663638728
+      },
+      {
+          "id": "0_imNQKfTQXMeY7mU6ykKQ",
+          "alias": "balboa-theater-san-francisco",
+          "name": "Balboa Theater",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/X97rheon0EXg0e90ea-TUQ/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/balboa-theater-san-francisco?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 377,
+          "categories": [
+              {
+                  "alias": "movietheaters",
+                  "title": "Cinema"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 37.775817737690666,
+              "longitude": -122.49797372070306
+          },
+          "transactions": [],
+          "location": {
+              "address1": "3630 Balboa St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94121",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "3630 Balboa St",
+                  "San Francisco, CA 94121"
+              ]
+          },
+          "phone": "+14152218184",
+          "display_phone": "(415) 221-8184",
+          "distance": 8700.142130559861
+      },
+      {
+          "id": "y5qFSe1JHXORuqcut0fK4g",
+          "alias": "boxcar-theatre-san-francisco",
+          "name": "Boxcar Theatre",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ubcpUrgE1CIJ3M76GzzBKQ/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/boxcar-theatre-san-francisco?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 66,
+          "categories": [
+              {
+                  "alias": "theater",
+                  "title": "Performing Arts"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 37.797877444953485,
+              "longitude": -122.40776126164167
+          },
+          "transactions": [],
+          "location": {
+              "address1": "644 Broadway",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94133",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "644 Broadway",
+                  "San Francisco, CA 94133"
+              ]
+          },
+          "phone": "+14159672227",
+          "display_phone": "(415) 967-2227",
+          "distance": 1401.1791872084736
+      },
+      {
+          "id": "nMBMbIFmmJ7ErFMmj0X5gA",
+          "alias": "her-rebel-highness-san-francisco",
+          "name": "Her Rebel Highness",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LBqUll-yj9_B2k2iQTJ-RQ/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/her-rebel-highness-san-francisco?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 4,
+          "categories": [
+              {
+                  "alias": "theater",
+                  "title": "Performing Arts"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 37.7887161076069,
+              "longitude": -122.397916540504
+          },
+          "transactions": [],
+          "location": {
+              "address1": "46 Minna St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94105",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "46 Minna St",
+                  "San Francisco, CA 94105"
+              ]
+          },
+          "phone": "",
+          "display_phone": "",
+          "distance": 242.70650914665845
+      },
+      {
+          "id": "NWlAffj122OTTquIqSA_ug",
+          "alias": "roxie-theater-san-francisco",
+          "name": "Roxie Theater",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FbQQ4QVadteTdHIog5Adlw/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/roxie-theater-san-francisco?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 263,
+          "categories": [
+              {
+                  "alias": "movietheaters",
+                  "title": "Cinema"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 37.7646217346191,
+              "longitude": -122.422416687012
+          },
+          "transactions": [],
+          "location": {
+              "address1": "3117 16th St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94103",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "3117 16th St",
+                  "San Francisco, CA 94103"
+              ]
+          },
+          "phone": "+14158631087",
+          "display_phone": "(415) 863-1087",
+          "distance": 3162.667148408599
+      },
+      {
+          "id": "2s8S5dM-HW9pXZP7Ozc8zA",
+          "alias": "castro-theatre-san-francisco",
+          "name": "Castro Theatre",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pbMMiB_Zw1IuK-YPNiBmJg/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/castro-theatre-san-francisco?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 767,
+          "categories": [
+              {
+                  "alias": "movietheaters",
+                  "title": "Cinema"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 37.7620124816895,
+              "longitude": -122.434692382812
+          },
+          "transactions": [],
+          "location": {
+              "address1": "429 Castro St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94114",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "429 Castro St",
+                  "San Francisco, CA 94114"
+              ]
+          },
+          "phone": "+14156216120",
+          "display_phone": "(415) 621-6120",
+          "distance": 4122.6349678711595
+      },
+      {
+          "id": "ZggachYH8Y84viIgdaJUzg",
+          "alias": "great-star-theater-san-francisco-2",
+          "name": "Great Star Theater",
+          "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vBpInHeOaVLC1NpWfkC_pw/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/great-star-theater-san-francisco-2?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 52,
+          "categories": [
+              {
+                  "alias": "theater",
+                  "title": "Performing Arts"
+              },
+              {
+                  "alias": "cabaret",
+                  "title": "Cabaret"
+              },
+              {
+                  "alias": "nonprofit",
+                  "title": "Community Service/Non-Profit"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 37.7961874008179,
+              "longitude": -122.405718415976
+          },
+          "transactions": [],
+          "location": {
+              "address1": "636 Jackson St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94133",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "636 Jackson St",
+                  "San Francisco, CA 94133"
+              ]
+          },
+          "phone": "+14157354159",
+          "display_phone": "(415) 735-4159",
+          "distance": 1158.6636420828188
+      },
+      {
+          "id": "N1HWyWcLRskFtCO7UnZqKw",
+          "alias": "shelton-theater-san-francisco",
+          "name": "Shelton Theater",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6tWWCMK0hsnURWCtugabPw/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/shelton-theater-san-francisco?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 113,
+          "categories": [
+              {
+                  "alias": "theater",
+                  "title": "Performing Arts"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 37.7890778,
+              "longitude": -122.4091071
+          },
+          "transactions": [],
+          "location": {
+              "address1": "533 Sutter St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94102",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "533 Sutter St",
+                  "San Francisco, CA 94102"
+              ]
+          },
+          "phone": "+14158829100",
+          "display_phone": "(415) 882-9100",
+          "distance": 839.0612182795483
+      },
+      {
+          "id": "zscGnDKjMqsjJimWjKLbCQ",
+          "alias": "victoria-theatre-san-francisco",
+          "name": "Victoria Theatre",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OeZMibBYtv0QfweoS78ddQ/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/victoria-theatre-san-francisco?adjust_creative=jT68rNooA7RTqVp_CTRs9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jT68rNooA7RTqVp_CTRs9Q",
+          "review_count": 82,
+          "categories": [
+              {
+                  "alias": "theater",
+                  "title": "Performing Arts"
+              },
+              {
+                  "alias": "movietheaters",
+                  "title": "Cinema"
+              }
+          ],
+          "rating": 4.0,
+          "coordinates": {
+              "latitude": 37.7648582458496,
+              "longitude": -122.41886138916
+          },
+          "transactions": [],
+          "location": {
+              "address1": "2961 16th St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94103",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "2961 16th St",
+                  "San Francisco, CA 94103"
+              ]
+          },
+          "phone": "+14158637576",
+          "display_phone": "(415) 863-7576",
+          "distance": 2960.33705070511
+      }
+  ],
+  "total": 725,
+  "region": {
+      "center": {
+          "longitude": -122.399972,
+          "latitude": 37.786882
+      }
+  }
+}
