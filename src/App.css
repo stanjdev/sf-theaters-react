@@ -47,4 +47,15 @@
   }
 }
 
+nav {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #282c34;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+}
 

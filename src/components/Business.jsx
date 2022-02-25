@@ -1,5 +1,4 @@
 import React from 'react';
-import Button from './Button';
 import { useParams, useNavigate, useLocation } from 'react-router-dom';
 
 export default function Business() {
@@ -15,29 +14,28 @@ export default function Business() {
     <>
       <div className="App">
       <header className="App-header">
-        <button onClick={() => navigate(-1)}>Go Back</button>
+        <button style={{ alignSelf: 'flex-start' }} onClick={() => navigate(-1)}>Go Back</button>
         <a href={all_data.url} target="_blank" rel="noreferrer noopener">
           <img src={all_data.image_url} className="App-logo" alt="logo" />
         </a>
-        <h1>{all_data.name}</h1>
-        <p>Rating: {all_data.rating}</p>
-        <a href={`http://maps.google.com/?q=${all_data.location.address1} ${all_data.location.city}, ${all_data.location.state} ${all_data.location.zip_code}`} target="_blank" rel="noreferrer noopener">
-          <small>{all_data.location.address1}</small>
-          <br></br>
-          <small>{all_data.location.city}, {all_data.location.state} {all_data.location.zip_code}</small>
-        </a>
-        <small>{all_data.phone}</small>
-        <p>id: {id}</p>
-        <div style={{ marginTop: 20 }} >
-          <div style={ styles.businessInfoBox }>
-            <p>Wifi?</p>
-            <p>Yes</p>
-          </div>
-          <div style={ styles.businessInfoBox }>
-            <p>Student friendly?</p>
-            <p>Yes</p>
-          </div>
+
+        <div style={ styles.detailsContainer}>
+          <h1>{all_data.name}</h1>
+          <p>Rating: {all_data.rating}</p>
+          <p>Review Count: {all_data.review_count}</p>
+          <a style={{color: 'green'}} href={`http://maps.google.com/?q=${all_data.location.display_address}`} target="_blank" rel="noreferrer noopener">
+            {all_data.location.display_address.map((line) => {
+              return (
+                <>
+                  <small>{line}</small>
+                  <br></br>
+                </>
+              );
+            })}
+          </a>
+          <small>{all_data.display_phone}</small>
         </div>
+        
       </header>
     </div>
     </>
@@ -55,6 +53,9 @@ const styles = {
     justifyContent: 'space-evenly', 
     alignItems: 'start'
   },
+  detailsContainer: {
+    maxWidth: '80%'
+  }
 };
 
 

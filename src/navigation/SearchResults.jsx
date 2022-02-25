@@ -1,10 +1,9 @@
 import theater_businesses from '../mockdata/theater_businesses.json';
 import React, { useRef, useEffect, useState, useCallback } from 'react';
-import { Link, useNavigate, useParams } from 'react-router-dom';
+import { useParams } from 'react-router-dom';
 import BusinessLink from '../components/BusinessLink';
 import mapboxgl from '!mapbox-gl'; // eslint-disable-line import/no-webpack-loader-syntax
 import './SearchResults.css';
-const axios = require('axios').default;
 
 const API_KEY = process.env.REACT_APP_MAPBOXGL_ACCESSTOKEN;
 
@@ -97,13 +96,7 @@ export default function SearchResults({ route, navigation }) {
     }
 
     for (const marker of geojson.features) {
-      // console.log(currentMarkers.current)
-      // const el = (
-      //   <div className={styles.marker}>
-      //   </div>
-      // );
       let el = document.createElement('div');
-      // el.className = styles.marker;
       el.className = 'marker';
       // make a marker for each feature and add to the map
       let myMarker = new mapboxgl.Marker(el);
@@ -148,23 +141,20 @@ export default function SearchResults({ route, navigation }) {
   }, [businessMarkers])
 
 
-  const BusinessLinks = foundBusinesses.map((shop) => {
-    const subHeading = shop.categories[0].title;
-    const { id, name, image_url } = shop;
+  const BusinessLinks = foundBusinesses.map((business) => {
+    const subHeading = business.categories[0].title;
+    const { id, name, image_url } = business;
     return (
-      <BusinessLink key={id} id={id} name={name} subHeading={subHeading} image={image_url} all_data={shop} />
+      <BusinessLink key={id} id={id} name={name} subHeading={subHeading} image={image_url} all_data={business} />
     )
   })
 
   const [ search, setSearch ] = useState();
 
   useEffect(() => {
-    setFoundBusinesses(foundBusinesses.filter((business) => {
+    setFoundBusinesses(theater_businesses.businesses.filter((business) => {
       return business.name.toLowerCase().includes(search)
     }))
-    if (search === "") {
-      setMockJsonData();
-    }
   }, [search])
 
 

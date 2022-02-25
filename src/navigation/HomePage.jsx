@@ -45,55 +45,15 @@ export default function HomePage() {
             San Francisco Theaters
           </h1>
           {loadingMessage}
-          <Button onClick={getCurrentLocation} 
-            customWidth={'70vw'} customText={'Use Current Location'}/>
           <div style={{marginTop: 20}} >
             <Button onClick={searchAddress} customWidth={'17vw'} customText={'Search'} color={'black'} textColor={'white'} />
           </div>
         </header>
       </div>
 
-      <TipCalculator />
-
     </>
   );
 };
 
 
-
-
-function TipCalculator() {
-  const [bill, setBill] = useState(0.00);
-  const [tip, setTip] = useState(15);
-  const [people, setPeople] = useState(1);
-
-  const totalTip = ((bill * tip / 100) / people).toFixed(2);
-  const total = (Number(totalTip) + Number(bill) / people).toFixed(2);
-
-  return (
-    <>
-      <h1>Tip Calculator</h1>
-      <div >
-        <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
-          <label for="bill">Bill</label>
-          <input id="bill" type="number" onChange={(evt) => setBill(evt.target.value)} value={bill} />
-          <label for="tip">Tip %</label>
-          <input id="tip" type="number" onChange={(evt) => setTip(evt.target.value)} value={tip} />
-          <label for="people">Number of people</label>
-          <input id="people" type="number" onChange={(evt) => setPeople(evt.target.value)} value={people} />
-        </div>
-        <div>
-          <div style={{display: 'flex', justifyContent: 'space-evenly'}}>
-            <p>Tip {people > 1 ? "per person" : null}</p>
-            <p>${totalTip}</p>
-          </div>
-          <div style={{display: 'flex', justifyContent: 'space-evenly'}}>
-            <p>Total {people > 1 ? "per person" : null}</p>
-            <p>${total}</p>
-          </div>
-        </div>
-      </div>
-    </>
-  );
-};
 
