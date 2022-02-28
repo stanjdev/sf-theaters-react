@@ -38,11 +38,6 @@ export default function FilteredSearchResults() {
 };
 
 const styles = {
-  mapContainer: {
-    border: 'solid 1px orange',
-    // maxHeight: '40vh',
-    // height: '400px',
-  },
   resultsContainer: {
     display: 'flex',
     justifyContent: 'center',
@@ -57,13 +52,4 @@ const styles = {
     cursor: 'pointer',
   }
 };
-
-
-// Loads the MapBox API script
-function loadScript(url) {
-  const index = window.document.getElementsByTagName('script')[0];
-  const script = window.document.createElement('script');
-  script.src = url;
-  index.parentNode.insertBefore(script, index);
-}
 

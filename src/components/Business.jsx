@@ -19,7 +19,7 @@ export default function Business() {
           <img src={all_data.image_url} className="App-logo" alt="logo" />
         </a>
 
-        <div style={ styles.detailsContainer}>
+        <div style={ styles.detailsContainer }>
           <h1>{all_data.name}</h1>
           <p>Rating: {all_data.rating}</p>
           <p>Review Count: {all_data.review_count}</p>
@@ -54,7 +54,8 @@ const styles = {
     alignItems: 'start'
   },
   detailsContainer: {
-    maxWidth: '80%'
+    maxWidth: '80%',
+    paddingBottom: '30px'
   }
 };
 
