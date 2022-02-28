@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sf-theaters-react/static/css/main.2cc3b579.css",
-    "main.js": "/sf-theaters-react/static/js/main.442cdcde.js",
+    "main.js": "/sf-theaters-react/static/js/main.1a067a22.js",
     "static/media/AbrilFatface-Regular.ttf": "/sf-theaters-react/static/media/AbrilFatface-Regular.c2459f7f69cb5eb788d8.ttf",
     "static/media/sf-theater-icon.png": "/sf-theaters-react/static/media/sf-theater-icon.f71cbfc4518ef3bd9f03.png",
     "index.html": "/sf-theaters-react/index.html",
     "main.2cc3b579.css.map": "/sf-theaters-react/static/css/main.2cc3b579.css.map",
-    "main.442cdcde.js.map": "/sf-theaters-react/static/js/main.442cdcde.js.map"
+    "main.1a067a22.js.map": "/sf-theaters-react/static/js/main.1a067a22.js.map"
   },
   "entrypoints": [
     "static/css/main.2cc3b579.css",
-    "static/js/main.442cdcde.js"
+    "static/js/main.1a067a22.js"
   ]
 }
