@@ -1,5 +1,7 @@
 # San Francisco Theaters
 
+![sf-theater-icon](https://user-images.githubusercontent.com/61481150/156074264-9b87352c-561b-4e0b-82de-6ba6d5277b72.png)
+
 San Francisco Theaters is a React web application that shows popular theaters, bars, cinemas, and performance arts theaters in San Francisco. Built with Yelp API data and Mapbox API.
 
 ## Installation
