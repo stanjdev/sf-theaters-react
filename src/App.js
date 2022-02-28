@@ -5,7 +5,7 @@ import SearchResults from './navigation/SearchResults';
 import Business from './components/Business';
 import FilteredSearchResults from './navigation/FilteredSearchResults';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route,
   Link
@@ -13,9 +13,9 @@ import {
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
       <nav>
-        <Link className="nav-link" to="/">Home</Link>
+        <Link className="nav-link" to={"/"}>Home</Link>
         <Link className="nav-link" to={`/filtered_search_results/cinema`}>Cinemas</Link>
         <Link className="nav-link" to={`/filtered_search_results/performing art`}>Performing Arts</Link>
         <Link className="nav-link" to={`/filtered_search_results/bar`}>Bars</Link>
