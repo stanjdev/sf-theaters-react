@@ -160,13 +160,15 @@ export default function SearchResults({ route, navigation }) {
 
   return (
     <>
-      <h2>Theaters in <span style={{color: 'blue'}}>{query}</span></h2>
-      <h2>{search}</h2>
-      <input 
-        type="text" 
-        placeholder='filter' 
-        onChange={(evt) => setSearch(evt.target.value)}
-      />
+      <div style={{padding: '0 15px 0 15px', display: 'flex', justifyContent: 'space-between'}}>
+        <h2>Theaters in <span style={{color: 'blue'}}>{query}</span></h2>
+        <input 
+          type="text" 
+          placeholder='filter' 
+          onChange={(evt) => setSearch(evt.target.value)}
+          style={{width: '500px', padding: 15, margin: 15, fontSize: '1em'}}
+        />
+      </div>
       <div style={styles.mapContainer}>
         <div id='map' className="map-container" />
       </div>
@@ -180,7 +182,6 @@ export default function SearchResults({ route, navigation }) {
 
 const styles = {
   mapContainer: {
-    border: 'solid 1px orange',
     // maxHeight: '40vh',
     // height: '400px',
   },

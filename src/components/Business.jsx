@@ -14,7 +14,7 @@ export default function Business() {
     <>
       <div className="App">
       <header className="App-header">
-        <button style={{ alignSelf: 'flex-start' }} onClick={() => navigate(-1)}>Go Back</button>
+        <button className="goBackButton" style={{ alignSelf: 'flex-start' }} onClick={() => navigate(-1)}>Go Back</button>
         <a href={all_data.url} target="_blank" rel="noreferrer noopener">
           <img src={all_data.image_url} className="App-logo" alt="logo" />
         </a>

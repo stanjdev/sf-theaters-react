@@ -26,8 +26,10 @@ export default function FilteredSearchResults() {
 
   return (
     <>
-      <button onClick={() => navigate(-1)}>Go Back</button>
-      <h2><span style={{color: 'blue'}}>{filter[0].toUpperCase() + filter.slice(1)}s</span></h2>
+      <button className="goBackButton" onClick={() => navigate(-1)}>Go Back</button>
+      <div style={{padding: '0 15px 0 15px', display: 'flex', justifyContent: 'space-between'}}>
+        <h2><span style={{color: 'blue'}}>{filter[0].toUpperCase() + filter.slice(1)}s</span></h2>
+      </div>
       <div style={styles.resultsContainer}>
         { BusinessLinks }
       </div>
