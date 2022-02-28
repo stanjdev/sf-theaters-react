@@ -13,7 +13,7 @@ import {
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <nav>
         <Link className="nav-link" to="/">Home</Link>
         <Link className="nav-link" to={`/filtered_search_results/cinema`}>Cinemas</Link>
